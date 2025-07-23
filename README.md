@@ -1,6 +1,6 @@
 # Strategy- DesignerPattern
 
-Sistema de escolha do método de pagamento. 
+Sistema para a escolha do método de pagamento feito pelo usuário. 
 
 - extensível e não precisa ser modificado diretamente para incluir novas formas de pagamento.
 
