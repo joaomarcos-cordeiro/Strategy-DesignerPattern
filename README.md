@@ -1,0 +1,2 @@
+# StrategyDesignerPattern
+Strategy
