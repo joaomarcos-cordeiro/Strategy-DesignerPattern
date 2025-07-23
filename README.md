@@ -1,4 +1,4 @@
-# Strategy- DesignerPattern
+# Strategy DesignerPattern
 
 Sistema para a escolha do método de pagamento feito pelo usuário. 
 
