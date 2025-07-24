@@ -6,7 +6,7 @@ Sistema para a escolha do método de pagamento feito pelo usuário.
 
 - controle feito de forma dinâmica, com base na escolha do usuário.
 
-- O sistema permite a escolha do método de pagamento sem utilizar estruturas condicionais como if-else ou switch (diminuindo a complexidade ciclomatica).
+- sistema permite a escolha do método de pagamento sem utilizar estruturas condicionais como if-else ou switch (diminuindo a complexidade ciclomatica).
 
 - Utilização de enum para fornecer encapsulamento e organização.
 
