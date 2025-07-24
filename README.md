@@ -8,7 +8,7 @@ Sistema para a escolha do método de pagamento feito pelo usuário.
 
 - sistema permite a escolha do método de pagamento sem utilizar estruturas condicionais como if-else ou switch (diminuindo a complexidade ciclomatica).
 
-- Utilização de enum para fornecer encapsulamento e organização.
+- Encapsulamento com enum.
 
 - Manutenivel  design com o (Open/Closed Principle - OCP) do SOLID, permitindo a adição de novos comportamentos sem alterar o código existente.
 
